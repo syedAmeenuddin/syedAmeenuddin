@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @syedAmeenuddin
-- 👀 I’m interested in WEB and APP Dev (Django Python | Flutter Dart)
-- 🌱 I’m currently pursuing BCA Final Year in MADRAS UNIVERSITY
+- 👀 WEB and APP Dev (Django Python | Flutter Dart)
 - 📫 reach me at https://bit.ly/syedameenuddin
 - 
 
